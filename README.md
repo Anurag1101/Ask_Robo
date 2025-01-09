@@ -88,3 +88,16 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 ## License 📜:
 
 This project is licensed under the `MIT` License. 
+
+## Happy Asking! 😊:
+
+
+### Instructions for Customization
+
+1. Replace `your-username` in the repository URL with your GitHub username.
+
+2. Add a real screenshot in the `Preview` section by uploading an image to your repository or using an image hosting service, and update the URL accordingly.
+
+3. If a `style.css` file is included, mention its use explicitly.
+
+Let me know if you'd like further adjustments!
