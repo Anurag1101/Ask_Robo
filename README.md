@@ -57,4 +57,11 @@
 
 - **style.css:** (Optional) CSS file for styling the interface.
 
+## Example Commands 🎙️:
+
+- **"Open YouTube"** → Opens YouTube in a new tab.
+
+- **"Open Facebook"** → Opens Facebook in a new tab.
+
+- **"Search for cats"** → Performs a Google search for "cats."
 
