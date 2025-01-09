@@ -37,3 +37,15 @@
 
 3. Open the `index.html` file in your browser.
 
+## Usage:
+
+1. Click the 🎙️ Start Listening button.
+   
+2. Speak commands like:
+
+- "Open YouTube"
+- "Open Google"
+- "Open Instagram"
+
+3. For unrecognized commands, it will perform a Google search.
+
