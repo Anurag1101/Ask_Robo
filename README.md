@@ -35,7 +35,5 @@
    ```bash
    cd Ask_Robo
 
-
-
-
+3. Open the `index.html` file in your browser.
 
