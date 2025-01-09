@@ -5,9 +5,13 @@
 ## Features 🌟
 
 - **Voice Commands:** Interact with the assistant using voice commands.
+  
 - **Open Websites:** Say commands like "Open YouTube" or "Open Google" to navigate to those websites.
+  
 - **Google Search:** For unrecognized commands, it automatically performs a Google search.
+  
 - **Text-to-Speech:** Responds to your commands with voice feedback.
+  
 - **User-Friendly Interface:** Simple and intuitive UI with a start button.
 
 ## How It Works 🛠️
@@ -26,3 +30,5 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Ask_Robo.git
+
+
