@@ -51,4 +51,10 @@
 
 ## File Structure 📂:
 
+- **index.html:** The main HTML file containing the UI structure.
+  
+- **script.js:** JavaScript file implementing the speech recognition and command handling logic.
+
+- **style.css:** (Optional) CSS file for styling the interface.
+
 
