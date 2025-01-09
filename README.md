@@ -49,3 +49,6 @@
 
 3. For unrecognized commands, it will perform a Google search.
 
+## File Structure 📂:
+
+
