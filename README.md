@@ -31,4 +31,11 @@
    ```bash
    git clone https://github.com/your-username/Ask_Robo.git
 
+2. Navigate to the project directory:
+   ```bash
+   cd Ask_Robo
+
+
+
+
 
