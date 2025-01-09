@@ -80,3 +80,8 @@
 - Improve UI with animations and accessibility features.
 
 - Integrate natural language processing for better command understanding.
+
+## Contributing 🤝:
+
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
+
