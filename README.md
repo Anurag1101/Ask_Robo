@@ -72,3 +72,11 @@
 - ### JavaScript (Speech Recognition and Speech Synthesis APIs)
 
 - ### CSS (Optional for styling)
+
+## Future Enhancements 🔮:
+
+- Add more commands for utility tasks like checking the weather or setting reminders.
+
+- Improve UI with animations and accessibility features.
+
+- Integrate natural language processing for better command understanding.
