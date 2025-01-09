@@ -65,3 +65,10 @@
 
 - **"Search for cats"** → Performs a Google search for "cats."
 
+## Technologies Used 🛠️:
+
+- ### HTML
+
+- ### JavaScript (Speech Recognition and Speech Synthesis APIs)
+
+- ### CSS (Optional for styling)
