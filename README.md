@@ -1,6 +1,6 @@
 # Ask_Robo 🤖
 
-**Ask_Robo** is a lightweight AI voice assistant powered by the Speech Recognition and Speech Synthesis APIs built with JavaScript. It listens to your voice commands and performs actions like opening popular websites or performing Google searches.
+**Ask_Robo** is a lightweight AI voice assistant powered by the `Speech Recognition` and `Speech Synthesis APIs` built with JavaScript. It listens to your voice commands and performs actions like opening popular websites or performing Google searches.
 
 ## Features 🌟
 
